@@ -24,3 +24,8 @@ jboss-cli.sh -c 'deploy target/wildfly.sfsb.war'
 ```
 jboss-cli.sh -c 'undeploy wildfly.sfsb.war'
 ```
+
+The bug report is here: 
+```
+https://issues.jboss.org/browse/WFLY-4896
+```
